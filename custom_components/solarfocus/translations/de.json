@@ -252,7 +252,7 @@
         }
       },
       "hc_state" : {
-        "state": {
+        "state": {"17": "min. Energiequellentemperatur unterschritten, Frostschutzbetrieb",
           "0": "Heizkreis ist ausgeschaltet",
           "1": "Absenkbetrieb",
           "10": "Raumsolltemperatur Heizbetrieb erreicht",
@@ -321,7 +321,7 @@
           "1": "Heizbetrieb",
           "10": "K\u00fchlanforderung",
           "11": "manuelle Leistungsvorgabe",
-          "12": "W\u00e4rmepumpe ausgeschaltet",
+          "12": "W\u00e4rmepumpe ausgeschaltet","17": "min. Energiequellentemperatur unterschritten, Frostschutzbetrieb",
           "2": "Heizbetrieb, Trinkwasserspeicherladung",
           "3": "K\u00fchlbetrieb",
           "4": "Manueller Betrieb",
